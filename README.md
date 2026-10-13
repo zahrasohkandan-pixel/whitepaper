@@ -1,4 +1,4 @@
-[![Build Status](https://badge.buildkite.com/caf7ae5f41c9eadbce6c3e4d9f5197ffb7f3e4977873eb4971.svg?branch=master)](https://solana-ci-gate.herokuapp.com/buildkite_public_log?https://buildkite.com/solana-labs/whitepaper/builds/latest/master)
+.[![Build Status](https://badge.buildkite.com/caf7ae5f41c9eadbce6c3e4d9f5197ffb7f3e4977873eb4971.svg?branch=master)](https://solana-ci-gate.herokuapp.com/buildkite_public_log?https://buildkite.com/solana-labs/whitepaper/builds/latest/master)
 
 ## WIP Translations
 [English](solana-whitepaper-en.pdf)  
